@@ -1,0 +1,31 @@
+{
+    "name": "DonkeyLove Coin",
+    "symbol": "DLC",
+    "description": "A hilarious and heartwarming memecoin based on DonkeyLove.",
+    "image": "https://example.com/donkeylove-coin-image.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+      { "trait_type": "Loyalty", "value": "High" },
+      { "trait_type": "Charm", "value": "Extremely Funny" }
+    ],
+    "collection": {
+      "name": "DonkeyLove Memecoin Collection",
+      "family": "Memecoins"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/DonkeyLoveCoin/donkeylovecoin/blob/main/DLC.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "EjS1jfAnKS4mfPXxbhcQhXwZQr7kN9eChxQUv7ySMQMV",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
